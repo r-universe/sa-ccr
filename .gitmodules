@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "Trading"]
 	path = Trading
-	url = https://github.com/cran/Trading
+	url = https://github.com/sa-ccr/trading
