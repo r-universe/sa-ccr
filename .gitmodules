@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SACCR"]
+	path = SACCR
+	url = https://github.com/cran/SACCR
 [submodule "Trading"]
 	path = Trading
 	url = https://github.com/sa-ccr/trading
