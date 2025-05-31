@@ -8,3 +8,6 @@
 [submodule "Trading"]
 	path = Trading
 	url = https://github.com/sa-ccr/trading
+[submodule "xVA"]
+	path = xVA
+	url = https://github.com/cran/xVA
